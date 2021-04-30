@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there! 👋👋🏻👋🏼👋🏽👋🏾👋🏿
+
+I'm currently programming 💻, swimming 🏊‍‍‍♂️, studying 📚 or sleeping 😴
+
+Pinned projects:
+- 🤖 _app_ [**Donate your voice: CV Project**](https://github.com/Sav22999/common-voice-android)
+- 😛 _add-on_ [**Emoji**](https://github.com/Sav22999/emoji)
+- 🇦 _add-on_ [**Accented letters**](https://github.com/Sav22999/accented-letters-addons)
+- 🇮🇹 _bot_ [**MozItaBot**](https://github.com/MozillaItalia/mozitahub_bot)
 
 <!--
 **Sav22999/Sav22999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
