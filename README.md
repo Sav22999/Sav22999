@@ -2,11 +2,15 @@
 
 I'm currently programming 💻, swimming 🏊‍‍‍♂️, studying 📚 or sleeping 😴
 
+🆕🆕 Do you use the "CV Project" app? From the 21st May to 1st August (UTC Rome) you can make a donation (minimum 20€) and, as my personal gratitude, I'll send a "stickers pack" to you freely. Learn more about this initiative here: https://www.saveriomorelli.com/commonvoice/get-stickers/. All the earnings will be invested in the app 😍
+
 Pinned projects:
 - 🤖 _app_ [**Donate your voice: CV Project**](https://github.com/Sav22999/common-voice-android)
 - 😛 _add-on_ [**Emoji**](https://github.com/Sav22999/emoji)
 - 🔡 _add-on_ [**Accented letters**](https://github.com/Sav22999/accented-letters-addons)
+- 📖 _app_ [**Sav PDF Viewer Pro**](https://github.com/Sav22999/sav-pdf-viewer-pro)
 - 🇮🇹 _bot_ [**MozItaBot**](https://github.com/MozillaItalia/mozitahub_bot)
+- ⏲️ _add-on_ [**Limite**](https://github.com/Sav22999/limite)
 
 ----
 
