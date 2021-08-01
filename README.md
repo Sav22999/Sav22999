@@ -9,6 +9,7 @@ Pinned projects:
 - 📖 _app_ [**Sav PDF Viewer Pro**](https://github.com/Sav22999/sav-pdf-viewer-pro)
 - 🇮🇹 _bot_ [**MozItaBot**](https://github.com/MozillaItalia/mozitahub_bot)
 - ⏲️ _add-on_ [**Limite**](https://github.com/Sav22999/limite)
+- 📝 _add-on_ [**Websites notes**](https://github.com/Sav22999/websites-notes)
 - 🇬🇧 _app_ [**Word of the Day**](https://github.com/Sav22999/word-of-the-day)
 
 ----
