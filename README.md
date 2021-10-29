@@ -16,7 +16,7 @@ Pinned projects:
 
 [🌐 my website](https://www.saveriomorelli.com/), [🐦 my twitter account](https://twitter.com/Sav22999), [📧 telegram](https://t.me/Sav22999), [📸 my instagram account](https://www.instagram.com/sav.morelli/)
 
-<a href="https://liberapay.com/Sav22999/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a> [<img src="paypal.svg" width="160px"></img>](https://paypal.me/pools/c/8yl6auiU6e) [<img src="https://cdn.ko-fi.com/cdn/kofi1.png?v=2" width="120px"></img>](https://ko-fi.com/R5R31UQ8G)
+<a href="https://liberapay.com/Sav22999/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a> [<img src="paypal.svg" width="160px"></img>](https://paypal.me/saveriomorelli) [<img src="https://cdn.ko-fi.com/cdn/kofi1.png?v=2" width="120px"></img>](https://ko-fi.com/R5R31UQ8G)
 
 
 <!--
