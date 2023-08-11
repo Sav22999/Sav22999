@@ -1,6 +1,6 @@
 ### Hi there! 👋👋🏻👋🏼👋🏽👋🏾👋🏿
 
-I'm currently programming 💻, swimming 🏊‍‍‍♂️, studying 📚 or sleeping 😴
+I'm currently programming 💻, swimming 🏊‍♂️, studying 📚 or sleeping 😴
 
 Pinned projects:
 - 🤖 _app_ [**Donate your voice: CV Project**](https://github.com/Sav22999/common-voice-android) [![Github all releases](https://img.shields.io/github/downloads/Sav22999/common-voice-android/total.svg)](https://GitHub.com/Sav22999/common-voice-android/releases/) [![GitHub release](https://img.shields.io/github/release/Sav22999/common-voice-android.svg)](https://github.com/Sav22999/common-voice-android/releases/)
@@ -16,7 +16,7 @@ Pinned projects:
 
 [🌐 my website](https://www.saveriomorelli.com/), [🐦 my twitter account](https://twitter.com/Sav22999), [📧 telegram](https://t.me/Sav22999), [📸 my instagram account](https://www.instagram.com/sav.morelli/)
 
-<a href="https://liberapay.com/Sav22999/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a> [<img src="paypal.svg" width="160px"></img>](https://paypal.me/saveriomorelli) [<img src="https://cdn.ko-fi.com/cdn/kofi1.png?v=2" width="120px"></img>](https://ko-fi.com/R5R31UQ8G)
+<a href="https://liberapay.com/Sav22999/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a> [<img src="paypal.svg" width="160px"></img>](https://paypal.me/saveriomorelli)
 
 
 <!--
