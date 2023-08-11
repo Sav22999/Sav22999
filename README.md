@@ -3,13 +3,13 @@
 I'm currently programming 💻, swimming 🏊‍‍‍♂️, studying 📚 or sleeping 😴
 
 Pinned projects:
-- 🤖 _app_ [**Donate your voice: CV Project**](https://github.com/Sav22999/common-voice-android)
-- 😛 _add-on_ [**Emoji**](https://github.com/Sav22999/emoji)
-- 🔡 _add-on_ [**Accented letters**](https://github.com/Sav22999/accented-letters-addons)
-- 📖 _app_ [**Sav PDF Viewer Pro**](https://github.com/Sav22999/sav-pdf-viewer-pro)
-- 🇮🇹 _bot_ [**MozItaBot**](https://github.com/MozillaItalia/mozitahub_bot)
-- ⏲️ _add-on_ [**Limite**](https://github.com/Sav22999/limite)
-- 📝 _add-on_ [**Notefox**](https://github.com/Sav22999/websites-notes) / [**Notebird**](https://github.com/Sav22999/websites-notes/tree/thunderbird)
+- 🤖 _app_ [**Donate your voice: CV Project**](https://github.com/Sav22999/common-voice-android) [![Github all releases](https://img.shields.io/github/downloads/Sav22999/common-voice-android/total.svg)](https://GitHub.com/Sav22999/common-voice-android/releases/) [![GitHub release](https://img.shields.io/github/release/Sav22999/common-voice-android.svg)](https://github.com/Sav22999/common-voice-android/releases/)
+- 😛 _add-on_ [**Emoji**](https://github.com/Sav22999/emoji) [![Github all releases](https://img.shields.io/github/downloads/Sav22999/emoji/total.svg)](https://GitHub.com/Sav22999/emoji/releases/) [![GitHub release](https://img.shields.io/github/release/Sav22999/emoji.svg)](https://github.com/Sav22999/emoji/releases/)
+- 🔡 _add-on_ [**Accented letters**](https://github.com/Sav22999/accented-letters-addons) [![Github all releases](https://img.shields.io/github/downloads/Sav22999/accented-letters-addons/total.svg)](https://GitHub.com/Sav22999/accented-letters-addons/releases/) [![GitHub release](https://img.shields.io/github/release/Sav22999/accented-letters-addons.svg)](https://github.com/Sav22999/accented-letters-addons/releases/)
+- 📖 _app_ [**Sav PDF Viewer Pro**](https://github.com/Sav22999/sav-pdf-viewer-pro) [![Github all releases](https://img.shields.io/github/downloads/Sav22999/sav-pdf-viewer-pro/total.svg)](https://GitHub.com/Sav22999/sav-pdf-viewer-pro/releases/) [![GitHub release](https://img.shields.io/github/release/Sav22999/sav-pdf-viewer-pro.svg)](https://github.com/Sav22999/sav-pdf-viewer-pro/releases/)
+- ⏲️ _add-on_ [**Limite**](https://github.com/Sav22999/limite) [![Github all releases](https://img.shields.io/github/downloads/Sav22999/limite/total.svg)](https://GitHub.com/Sav22999/limite/releases/) [![GitHub release](https://img.shields.io/github/release/Sav22999/limite.svg)](https://github.com/Sav22999/limite/releases/)
+- 📝 _add-on_ [**Notefox**](https://github.com/Sav22999/websites-notes) / [**Notebird**](https://github.com/Sav22999/websites-notes/tree/thunderbird) [![Github all releases](https://img.shields.io/github/downloads/Sav22999/websites-notes/total.svg)](https://GitHub.com/Sav22999/websites-notes/releases/) [![GitHub release](https://img.shields.io/github/release/Sav22999/websites-notes.svg)](https://github.com/Sav22999/websites-notes/releases/)
+-  🇮🇹 _bot_ [**MozItaBot**](https://github.com/MozillaItalia/mozitahub_bot)
 - 🇬🇧 _app_ [**Word of the Day**](https://github.com/Sav22999/word-of-the-day)
 
 ----
