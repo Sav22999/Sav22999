@@ -15,9 +15,9 @@ Pinned projects:
 
 - 📝 _add-on_ [**Notefox**](https://github.com/Sav22999/websites-notes) / [**Notebird**](https://github.com/Sav22999/websites-notes/tree/thunderbird) [![Github all releases](https://img.shields.io/github/downloads/Sav22999/websites-notes/total.svg)](https://GitHub.com/Sav22999/websites-notes/releases/) [![GitHub release](https://img.shields.io/github/release/Sav22999/websites-notes.svg)](https://github.com/Sav22999/websites-notes/releases/) [![Mozilla Add-on Users](https://img.shields.io/amo/users/websites-notes)](https://addons.mozilla.org/it/firefox/addon/websites-notes) [![Mozilla Add-on Stars](https://img.shields.io/amo/rating/websites-notes)](https://addons.mozilla.org/it/firefox/addon/websites-notes) [![GitHub Repo stars](https://img.shields.io/github/stars/sav22999/websites-notes)](https://github.com/Sav22999/websites-notes)
 
--  🇮🇹 _bot_ [**MozItaBot**](https://github.com/MozillaItalia/mozitahub_bot)
-
 - 🇬🇧 _app_ [**Word of the Day**](https://github.com/Sav22999/word-of-the-day) [![GitHub Repo stars](https://img.shields.io/github/stars/sav22999/word-of-the-day)](https://github.com/Sav22999/word-of-the-day)
+
+- 🔗 _web_ [**savmrl.it**](https://github.com/Sav22999/savmrl.it) [![GitHub Repo stars](https://img.shields.io/github/stars/sav22999/savmrl.it)](https://github.com/Sav22999/savmrl.it)
 
 
 ----
