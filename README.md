@@ -23,10 +23,10 @@ Pinned projects:
 ----
 
 <p align="center">
-  <a href="https://www.saveriomorelli.com/"><img src="https://www.saveriomorelli.com/images/icon.png" alt="website" style="width:30px;height:30px;" /></a>
-  <a href="https://t.me/Sav22999"><img src="https://www.saveriomorelli.com/images/socials/telegram-black.png" alt="telegram" style="width:30px;height:30px;" /></a>
-  <a href="https://www.instagram.com/sav.morelli/"><img src="https://www.saveriomorelli.com/images/socials/instagram-black.png" alt="instagram" style="width:30px;height:30px;" /></a>
-  <a href="https://www.linkedin.com/in/saveriomorelli"><img src="https://www.saveriomorelli.com/images/socials/linkedin-black.png" alt="linkedin" style="width:30px;height:30px;" /></a>
+  <a href="https://www.saveriomorelli.com/"><img src="https://www.saveriomorelli.com/images/favicon.png" alt="website" style="width:30px;height:30px;" /></a>
+  <a href="https://t.me/Sav22999"><img src="https://www.saveriomorelli.com/images/socials/telegram-b.png" alt="telegram" style="width:30px;height:30px;" /></a>
+  <a href="https://www.instagram.com/sav.morelli/"><img src="https://www.saveriomorelli.com/images/socials/instagram-b.png" alt="instagram" style="width:30px;height:30px;" /></a>
+  <a href="https://www.linkedin.com/in/saveriomorelli"><img src="https://www.saveriomorelli.com/images/socials/linkedin-b.png" alt="linkedin" style="width:30px;height:30px;" /></a>
 </p>
 
 <p align="center">
