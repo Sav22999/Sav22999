@@ -1,4 +1,4 @@
-### Hi there! 👋👋🏻👋🏼👋🏽👋🏾👋🏿
+<h1> Hi there! 👋👋🏻👋🏼👋🏽👋🏾👋🏿 </h1>
 
 I'm currently programming 💻, swimming 🏊‍♂️, studying 📚 or sleeping 😴
 
